@@ -7,11 +7,10 @@ const cloudinary = require("cloudinary");
 
 cloudinary.v2.config({
   cloud_name: "dzeqhgz6k",
-  api_key: { CLOUDINARY_URL },
+  api_key: "964815125465362",
   api_secret: "BQyor-8nnYYbmXo1jsa5G4ANZTI",
   secure: true,
 });
-
 const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
